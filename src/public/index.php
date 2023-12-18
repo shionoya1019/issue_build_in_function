@@ -1,2 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$num = 3.5;
+
+echo floor($num);
