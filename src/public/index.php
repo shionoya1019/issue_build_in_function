@@ -1,2 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$food = ['orange', 'banana', 'apple', 'carrot'];
+
+echo count($food);
