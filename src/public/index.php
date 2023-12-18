@@ -1,2 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$word = "orange";
+
+echo strtoupper($word);
