@@ -1,2 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$word = "Hello world!";
+
+echo strrev($word);
