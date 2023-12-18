@@ -1,2 +1,4 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$num = 3.2;
+
+echo ceil($num);
